@@ -1,6 +1,6 @@
 # DDA-IT
 <p align="center">
-  <img src="assets/img/DDALogo.webp" alt="DDA-IT Logo" width="200"/>
+  <img src="https://www.dda-it.be/assets/img/DDALogo.webp" alt="DDA-IT Logo" width="200"/>
 </p>
 
 **Slimme ERP-oplossingen voor KMO’s**  
